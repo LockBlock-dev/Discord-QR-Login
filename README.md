@@ -18,7 +18,7 @@ Powerfull NodeJS script to login into Discord without using a phone made with [!
 
 • Go to the Discord QR Login folder and do `npm install`
 
-• Edit the config :
+• Edit the [config](./config.js) :
 ```js
 chromePath: "",
 //path to chrome.exe

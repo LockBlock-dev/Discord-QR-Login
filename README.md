@@ -7,7 +7,7 @@ Powerfull NodeJS script to login into Discord without using a phone made with [!
 
 • This repository is an unofficial use of the [Discord's API](https://discord.com/developers/docs/intro). Bugs can occur.
 
-• You must also use your token in the process, something [prohibited by Discord](https://discord.com/developers/docs/topics/oauth2#bot-vs-user-accounts) : `"Automating normal user accounts [...] can result in an account termination"`. I cannot be held responsible for any ban on your account.
+• You must also use your token in the process, something [prohibited by Discord](https://discord.com/developers/docs/topics/oauth2#bot-vs-user-accounts) : `"Automating normal user accounts [...] can result in an account termination"`. I can not be held responsible for the use of this script, nor any ban on your account.
 
 
 ## How to use

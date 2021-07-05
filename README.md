@@ -1,6 +1,10 @@
 # Discord QR Login
 
-Powerful NodeJS script to login into Discord without using a phone made with [![puppeteer](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/Discord-QR-Login/puppeteer-core)](https://www.npmjs.com/package/puppeteer-core)
+[![puppeteer](https://img.shields.io/github/package-json/dependency-version/LockBlock-dev/Discord-QR-Login/puppeteer-core)](https://www.npmjs.com/package/puppeteer-core)
+
+[![GitHub stars](https://img.shields.io/github/stars/LockBlock-dev/Discord-QR-Login.svg)](https://github.com/LockBlock-dev/Discord-QR-Login/stargazers)
+
+Powerful NodeJS script to login into Discord without using a phone.
 
 
 ## Disclaimer

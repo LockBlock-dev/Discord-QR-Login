@@ -13,7 +13,6 @@ module.exports = (discordToken, x_super, handshake) => {
             "Content-Type": "application/json; charset=UTF-8",
             "Content-Length": Buffer.byteLength(reqBody),
             "Authorization": `${discordToken}`,
-            "Accept-Encoding": "UTF8",
             "X-Super-Properties": `${x_super}`
         },
         body: reqBody
